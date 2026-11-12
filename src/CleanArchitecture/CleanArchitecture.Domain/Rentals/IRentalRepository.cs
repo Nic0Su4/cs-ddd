@@ -4,7 +4,7 @@ namespace CleanArchitecture.Domain.Rentals;
 
 public interface IRentalRepository
 {
-  Task<Rental> GetByIdAsync(Guid id, CancellationToken cancellationToken = default);
+  Task<Rental?> GetByIdAsync(Guid id, CancellationToken cancellationToken = default);
   Task<bool> IsOverlapingAsync(
     Vehicle vehicle,
     DateRange duration,
