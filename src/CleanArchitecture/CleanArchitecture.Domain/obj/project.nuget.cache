@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0tIfWhBdVQU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GAMER\\OneDrive\\Escritorio\\proyectos\\cs-ddd\\src\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GAMER\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
